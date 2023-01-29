@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893552389783",
+    "project_id": "ders-program-yeni",
+    "storage_bucket": "ders-program-yeni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893552389783:android:9e6d41bfc1e9882c1c83d2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893552389783-i9ra0hfqsimfqd5kq1l5k9uaniprmamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAQIo9U6cfeYv6FTBYZZn0nbk0XuCVxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893552389783-i9ra0hfqsimfqd5kq1l5k9uaniprmamk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
